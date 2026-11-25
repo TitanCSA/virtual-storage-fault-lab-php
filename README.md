@@ -1,5 +1,11 @@
 # Virtual-Storage-Fault-Lab PHP SDK
 
+<!-- simple-start:start -->
+Use Virtual-Storage-Fault-Lab from a PHP app.
+
+**Start here.** Run `composer require titancsa/virtual-storage-fault-lab`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
